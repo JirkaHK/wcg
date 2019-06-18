@@ -1,0 +1,2 @@
+# wcg
+World Community Grid
